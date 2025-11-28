@@ -6,9 +6,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
-
-# 👩‍💻 **Hi 👋, I'm Imen Hajri**  
-### *Backend & DevOps Engineer ⚙️ | Microservices Architect 🏗️ | Cloud Infrastructure ☁️ *
 <!-- 🎪 Animated Profile Container -->
 <div align="center">
   <!-- Animated Tech GIF -->
