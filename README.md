@@ -14,7 +14,8 @@
 Backend & DevOps Engineer ⚙️ || Cloud Infrastructure ☁️ || Microservices Architect 🏗️ || CI/CD Automation ⚡
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="450"/>
+  <!-- Girl coding GIF -->
+  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="420"/>
 </p>
 
 ---
@@ -22,17 +23,17 @@ Backend & DevOps Engineer ⚙️ || Cloud Infrastructure ☁️ || Microservices
 # 🔭 **I’m currently working on**
 - Scalable **Spring Boot Microservices**
 - **Kubernetes** deployments & GitOps (ArgoCD)
-- Automating **CI/CD pipelines** (GitHub Actions, GitLab CI, CircleCI)
+- **CI/CD pipelines** (GitHub Actions, GitLab CI, CircleCI)
 - **AWS Cloud** architectures (ECS, EKS, CloudFormation)
-- Highly resilient **distributed systems**
+- High-availability **distributed systems**
 
 ---
 
 # 🌱 **I’m currently learning**
 - Advanced **Resilience4j** patterns  
-- **Kafka / RabbitMQ / SQS** messaging systems  
-- Cloud cost optimization & IaC automation (**Terraform**)  
-- Observability with **ELK, Datadog, New Relic**
+- **Kafka / RabbitMQ / SQS**  
+- IaC automation with **Terraform**  
+- Cloud monitoring & optimization  
 
 ---
 
@@ -43,7 +44,7 @@ Backend & DevOps Engineer ⚙️ || Cloud Infrastructure ☁️ || Microservices
 
 ---
 
-# 👨‍💻 **All of my projects are available at**
+# 👨‍💻 **All of my projects are available at**  
 👉 **https://github.com/Imenhajri**
 
 ---
@@ -53,7 +54,7 @@ Backend & DevOps Engineer ⚙️ || Cloud Infrastructure ☁️ || Microservices
 - Docker, Kubernetes  
 - AWS (ECS / EKS / IAM / CloudWatch)  
 - Redis, Kafka, RabbitMQ  
-- Pipeline automation & monitoring  
+- CI/CD automation  
 
 ---
 
@@ -64,17 +65,16 @@ Backend & DevOps Engineer ⚙️ || Cloud Infrastructure ☁️ || Microservices
 ---
 
 # ⚡ **Fun fact**  
-Cloud + DevOps = Launching your ideas faster than ever 🚀
+Cloud + DevOps = The fastest way to turn ideas into production 🚀
 
 ---
 
 # 🔗 **Connect with me**
-
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="55"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=instagram" width="55"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="55"/></a>
   <a href="mailto:hajriimen154@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="55"/></a>
+  <a href="https://github.com/Imenhajri"><img src="https://skillicons.dev/icons?i=github" width="55"/></a>
 </p>
 
 ---
@@ -82,9 +82,9 @@ Cloud + DevOps = Launching your ideas faster than ever 🚀
 # 🚀 **Languages & Tools**
 
 ## 🎨 **Frontend**
-| HTML5 | CSS3 | JavaScript | TypeScript | React | Angular | Vue.js | Flutter |
-|-------|------|-------------|------------|--------|---------|--------|---------|
-| <img src="https://skillicons.dev/icons?i=html" width="45"/> | <img src="https://skillicons.dev/icons?i=css" width="45"/> | <img src="https://skillicons.dev/icons?i=javascript" width="45"/> | <img src="https://skillicons.dev/icons?i=typescript" width="45"/> | <img src="https://skillicons.dev/icons?i=react" width="45"/> | <img src="httpsulldev/icons?i=angular" width="45"/> | <img src="https://skillicons.dev/icons?i=vue" width="45"/> | <img src="https://skillicons.dev/icons?i=flutter" width="45"/> |
+| HTML5 | CSS3 | JavaScript | TypeScript | React | Angular | Vue.js | 
+|-------|------|-------------|------------|--------|---------|--------|
+| <img src="https://skillicons.dev/icons?i=html" width="45"/> | <img src="https://skillicons.dev/icons?i=css" width="45"/> | <img src="https://skillicons.dev/icons?i=javascript" width="45"/> | <img src="https://skillicons.dev/icons?i=typescript" width="45"/> | <img src="https://skillicons.dev/icons?i=react" width="45"/> | <img src="https://skillicons.dev/icons?i=angular" width="45"/> | <img src="https://skillicons.dev/icons?i=vue" width="45"/> |
 
 ---
 
@@ -109,20 +109,6 @@ Cloud + DevOps = Launching your ideas faster than ever 🚀
 
 ---
 
-## 📊 **Monitoring**
-| ELK | Datadog | New Relic | Nagios |
-|-----|---------|-----------|--------|
-| <img src="https://skillicons.dev/icons?i=elasticsearch" width="45"/> | <img src="https://skillicons.dev/icons?i=datadog" width="45"/> | <img src="https://skillicons.dev/icons?i=newrelic" width="45"/> | <img src="https://skillicons.dev/icons?i=linux" width="45"/> |
-
----
-
-## 🤖 **Machine Learning & Data**
-| Python | TensorFlow | Keras | Pandas | NumPy | Matplotlib | Anaconda |
-|--------|--------------|--------|----------|---------|-------------|------------|
-| <img src="https://skillicons.dev/icons?i=python" width="45"/> | <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/> | <img src="https://skillicons.dev/icons?i=keras" width="45"/> | <img src="https://skillicons.dev/icons?i=pandas" width="45"/> | <img src="https://skillicons.dev/icons?i=numpy" width="45"/> | <img src="https://skillicons.dev/icons?i=matplotlib" width="45"/> | <img src="https://skillicons.dev/icons?i=anaconda" width="45"/> |
-
----
-
 # 📈 **GitHub Stats**
 
 <p align="center">
@@ -141,4 +127,3 @@ Cloud + DevOps = Launching your ideas faster than ever 🚀
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
-
