@@ -16,7 +16,9 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" height="280"/>
   
 </div>
+
 ---
+
 # 🔭 **I’m currently working on**
 - Scalable **Spring Boot Microservices**
 - **Kubernetes** deployments & GitOps  
