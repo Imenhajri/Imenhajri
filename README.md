@@ -1,22 +1,35 @@
-<!-- Top Typing Animation -->
+<!-- 🌟 Animated 3D Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00ADEF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Imen+Hajri!;Backend+Engineer+⚙️+%7C+DevOps+Engineer+🚀;Cloud+Architect+☁️+%7C+Microservices+Expert🏗️;CI%2FCD+Automation+%7C+Kubernetes+%7C+AWS;Welcome+to+my+GitHub+Profile+✨"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00ADEF&center=true&vCenter=true&width=1000&height=60&lines=Hi+👋%2C+I'm+Imen+Hajri!;Backend+Engineer+⚙️+%7C+DevOps+Engineer+🚀;Cloud+Architect+☁️+%7C+Microservices+Expert+🏗️;CI%2FCD+Automation+%7C+Kubernetes+%7C+AWS+☁️;Welcome+to+my+GitHub+Profile+✨&random=false" alt="Typing Animation" />
 </p>
 
-<!-- Gradient Banner -->
+<!-- 🎯 3D Rotating Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:004e92,100:000428&height=80&section=header&text=Backend%20%7C%20DevOps%20%7C%20Cloud%20Engineer&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADEF,50:667eea,100:764ba2&height=120&section=header&text=Backend%20%7C%20DevOps%20%7C%20Cloud%20Engineer&fontSize=32&fontColor=ffffff&fontAlignY=40&animation=twinkling&stroke=000000&strokeWidth=2" alt="Header Banner" />
 </p>
+
+<!-- 🚀 Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
 ---
 
 # 👩‍💻 **Hi 👋, I'm Imen Hajri**  
-Backend & DevOps Engineer ⚙️ || Cloud Infrastructure ☁️ || Microservices Architect 🏗️ || CI/CD Automation ⚡
+### *Backend & DevOps Engineer ⚙️ | Cloud Infrastructure ☁️ | Microservices Architect 🏗️ | CI/CD Automation ⚡*
 
-<p align="center">
-  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="420"/>
-</p>
-
+<!-- 🎪 Animated Profile Container -->
+<div align="center">
+  
+  ![Profile Animation](https://github-readme-stats.vercel.app/api/pin/?username=Imenhajri&repo=your-repo&theme=tokyonight&show_icons=true)
+  
+  <!-- Floating 3D Animation -->
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="90%"/>
+  
+  <!-- Animated Tech GIF -->
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" height="280"/>
+  
+</div>
 ---
 
 # 🔭 **I’m currently working on**
