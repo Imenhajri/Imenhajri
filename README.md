@@ -2,18 +2,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00ADEF&center=true&vCenter=true&width=1000&height=60&lines=Hi+👋%2C+I'm+Imen+Hajri!;Backend+Engineer+⚙️+%7C+DevOps+Engineer+🚀;Cloud+Architect+☁️+%7C+Microservices+Expert+🏗️;CI%2FCD+Automation+%7C+Kubernetes+%7C+AWS+☁️;Welcome+to+my+GitHub+Profile+✨&random=false" alt="Typing Animation" />
 </p>
-
-<!-- 🎯 3D Rotating Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADEF,50:667eea,100:764ba2&height=120&section=header&text=Backend%20%7C%20DevOps%20%7C%20Cloud%20Engineer&fontSize=32&fontColor=ffffff&fontAlignY=40&animation=twinkling&stroke=000000&strokeWidth=2" alt="Header Banner" />
-</p>
-
 <!-- 🚀 Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
-
----
 
 # 👩‍💻 **Hi 👋, I'm Imen Hajri**  
 ### *Backend & DevOps Engineer ⚙️ | Cloud Infrastructure ☁️ | Microservices Architect 🏗️ | CI/CD Automation ⚡*
