@@ -117,11 +117,5 @@ Cloud + DevOps = The fastest way to turn ideas into production 🚀
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Imenhajri&theme=tokyonight&hide_border=true" width="90%"/>
+  <img src="https://streak-stats.demolab.com?user=Imenhajri&theme=tokyonight&hide_border=true" width="80%"/>
 </p>
-
----
-<!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
