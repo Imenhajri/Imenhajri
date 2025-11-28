@@ -97,6 +97,9 @@
    <a href="https://discord.gg/EayaYvnP">
     <img src="https://skillicons.dev/icons?i=discord" width="45"/>
   </a>
+    <a href="https://www.youtube.com/@hajriimen6247">
+    <img src="https://skillicons.dev/icons?i=youtube" width="45"/>
+  </a>
   <a href="https://3-d-web-developer-portfolio-with-re.vercel.app/">
     <img src="https://skillicons.dev/icons?i=netlify" width="45"/>
   </a>
