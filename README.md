@@ -1,20 +1,37 @@
 <!-- 🌟 Animated 3D Banner -->
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00ADEF&center=true&vCenter=true&width=1000&height=60&lines=Hi+👋%2C+I'm+Imen+Hajri!;Backend+Engineer+⚙️+%7C+DevOps+Engineer+🚀;Cloud+Architect+☁️+%7C+Microservices+Expert+🏗️;CI%2FCD+Automation+%7C+Kubernetes+%7C+AWS+☁️;Welcome+to+my+GitHub+Profile+✨&random=false" alt="Typing Animation" />
-</p>
+</div>
+
 <!-- 🚀 Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-# 👩‍💻 **Hi 👋, I'm Imen Hajri**  
+<!-- 🎯 Main Profile Section -->
+<div align="center">
+
+# 👩‍💻 **Imen Hajri** 
 ### *Backend & DevOps Engineer ⚙️ | Cloud Infrastructure ☁️ | Microservices Architect 🏗️ | CI/CD Automation ⚡*
 
-<!-- 🎪 Animated Profile Container -->
-<div align="center">
-  <!-- Animated Tech GIF -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" height="280"/>
-  
+<!-- 🌈 Profile Grid Layout -->
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <!-- Animated Tech GIF -->
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="85%"/>
+      <br>
+      <em>Building Scalable Systems</em>
+    </td>
+    <td width="50%" align="center">
+      <!-- Tech Stack Animation -->
+      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80%"/>
+      <br>
+      <em>Cloud & DevOps Technologies</em>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 # 🔭 **I’m currently working on**
@@ -38,43 +55,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws,gitlab,githubactions,react,angular,vue,python,nodejs" />
 </p>
-
----
-
-# 👨‍💻 **All of my projects are available at**  
-👉 **https://github.com/Imenhajri**
-
----
-
-# 💬 **Ask me about**
-- Java & Spring Boot Microservices  
-- Docker, Kubernetes  
-- AWS (ECS / EKS / IAM / CloudWatch)  
-- Redis, Kafka, RabbitMQ  
-- CI/CD automation  
-
----
-
-# 📫 **How to reach me**
-📧 **hajriimen154@gmail.com**  
-📍 Tunisia  
-
----
-
-# ⚡ **Fun fact**
-Cloud + DevOps = The fastest way to turn ideas into production 🚀
-
----
-
-# 🔗 **Connect with me**
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="55"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" width="55"/></a>
-  <a href="mailto:hajriimen154@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="55"/></a>
-  <a href="https://github.com/Imenhajri"><img src="https://skillicons.dev/icons?i=github" width="55"/></a>
-</p>
-
----
 
 # 🚀 **Languages & Tools**
 
