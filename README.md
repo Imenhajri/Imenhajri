@@ -14,7 +14,6 @@
 Backend & DevOps Engineer ⚙️ || Cloud Infrastructure ☁️ || Microservices Architect 🏗️ || CI/CD Automation ⚡
 
 <p align="center">
-  <!-- Girl coding GIF -->
   <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="420"/>
 </p>
 
@@ -22,7 +21,7 @@ Backend & DevOps Engineer ⚙️ || Cloud Infrastructure ☁️ || Microservices
 
 # 🔭 **I’m currently working on**
 - Scalable **Spring Boot Microservices**
-- **Kubernetes** deployments & GitOps (ArgoCD)
+- **Kubernetes** deployments & GitOps  
 - **CI/CD pipelines** (GitHub Actions, GitLab CI, CircleCI)
 - **AWS Cloud** architectures (ECS, EKS, CloudFormation)
 - High-availability **distributed systems**
@@ -59,12 +58,12 @@ Backend & DevOps Engineer ⚙️ || Cloud Infrastructure ☁️ || Microservices
 ---
 
 # 📫 **How to reach me**
-📧 **Email:** hajriimen154@gmail.com  
+📧 **hajriimen154@gmail.com**  
 📍 Tunisia  
 
 ---
 
-# ⚡ **Fun fact**  
+# ⚡ **Fun fact**
 Cloud + DevOps = The fastest way to turn ideas into production 🚀
 
 ---
@@ -82,8 +81,8 @@ Cloud + DevOps = The fastest way to turn ideas into production 🚀
 # 🚀 **Languages & Tools**
 
 ## 🎨 **Frontend**
-| HTML5 | CSS3 | JavaScript | TypeScript | React | Angular | Vue.js | 
-|-------|------|-------------|------------|--------|---------|--------|
+| HTML5 | CSS3 | JavaScript | TypeScript | React | Angular | Vue.js |
+|-------|------|------------|------------|--------|---------|--------|
 | <img src="https://skillicons.dev/icons?i=html" width="45"/> | <img src="https://skillicons.dev/icons?i=css" width="45"/> | <img src="https://skillicons.dev/icons?i=javascript" width="45"/> | <img src="https://skillicons.dev/icons?i=typescript" width="45"/> | <img src="https://skillicons.dev/icons?i=react" width="45"/> | <img src="https://skillicons.dev/icons?i=angular" width="45"/> | <img src="https://skillicons.dev/icons?i=vue" width="45"/> |
 
 ---
@@ -95,10 +94,12 @@ Cloud + DevOps = The fastest way to turn ideas into production 🚀
 
 ---
 
-## ☁️ **Cloud, DevOps & CI/CD**
-| AWS | Docker | Kubernetes | GitHub Actions | GitLab CI | ArgoCD | Jenkins | Linux |
-|------|--------|------------|------------------|--------------|-----------|----------|--------|
-| <img src="https://skillicons.dev/icons?i=aws" width="45"/> | <img src="https://skillicons.dev/icons?i=docker" width="45"/> | <img src="https://skillicons.dev/icons?i=kubernetes" width="45"/> | <img src="https://skillicons.dev/icons?i=githubactions" width="45"/> | <img src="https://skillicons.dev/icons?i=gitlab" width="45"/> | <img src="https://skillicons.dev/icons?i=argocd" width="45"/> | <img src="https://skillicons.dev/icons?i=jenkins" width="45"/> | <img src="https://skillicons.dev/icons?i=linux" width="45"/> |
+## ☁️ **Cloud, DevOps & CI/CD**  
+> **ArgoCD removed — as requested**
+
+| AWS | Docker | Kubernetes | GitHub Actions | GitLab CI | Jenkins | Linux |
+|------|--------|------------|------------------|--------------|----------|--------|
+| <img src="https://skillicons.dev/icons?i=aws" width="45"/> | <img src="https://skillicons.dev/icons?i=docker" width="45"/> | <img src="https://skillicons.dev/icons?i=kubernetes" width="45"/> | <img src="https://skillicons.dev/icons?i=githubactions" width="45"/> | <img src="https://skillicons.dev/icons?i=gitlab" width="45"/> | <img src="https://skillicons.dev/icons?i=jenkins" width="45"/> | <img src="https://skillicons.dev/icons?i=linux" width="45"/> |
 
 ---
 
@@ -109,18 +110,17 @@ Cloud + DevOps = The fastest way to turn ideas into production 🚀
 
 ---
 
-# 📈 **GitHub Stats**
+# 📈 **GitHub Dashboard Stats (Like Your Screenshot)**  
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Imenhajri&theme=tokyonight&show_icons=true&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com/?user=Imenhajri&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Imen%20Hajri's%20GitHub%20Stats&include_all_commits=true&count_private=true" width="55%"/>
 </p>
 
 ---
 
-# 🌀 **3D Contribution Graph**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph/3d-contrib/3d-contrib.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imenhajri&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
