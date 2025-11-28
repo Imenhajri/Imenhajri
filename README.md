@@ -1,16 +1,20 @@
 <!-- 🌟 Animated 3D Banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00ADEF&center=true&vCenter=true&width=1000&height=60&lines=Hi+👋%2C+I'm+Imen+Hajri!;Backend+Engineer+⚙️+%7C+DevOps+Engineer+🚀;Cloud+Architect+☁️+%7C+Microservices+Expert+🏗️;CI%2FCD+Automation+%7C+Kubernetes+%7C+AWS+☁️;Welcome+to+my+GitHub+Profile+✨&random=false" alt="Typing Animation" />
-</div>
-
-<!-- 👁️ Profile Tracking -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Imenhajri&color=00ADEF&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00ADEF&center=true&vCenter=true&width=1000&height=60&lines=Hi+👋%2C+I'm+Imen+Hajri!;Backend+Engineer+⚙️+%7C+DevOps+Engineer+🚀;Cloud+Architect+☁️+%7C+Microservices+Expert+🏗️;CI%2FCD+Automation+%7C+Kubernetes+%7C+AWS+☁️;Welcome+to+my+GitHub+Profile+✨&random=false" alt="Typing Animation" />
 </p>
-
 <!-- 🚀 Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+# 👩‍💻 **Hi 👋, I'm Imen Hajri**  
+### *Backend & DevOps Engineer ⚙️ | Cloud Infrastructure ☁️ | Microservices Architect 🏗️ | CI/CD Automation ⚡*
+
+<!-- 🎪 Animated Profile Container -->
+<div align="center">
+  <!-- Animated Tech GIF -->
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" height="280"/>
+  
 </div>
 <!-- 👁️ Profile Views -->
 <p align="center">
