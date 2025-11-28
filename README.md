@@ -91,16 +91,10 @@
 
 ## 📫 **Let's Connect**
 <p align="center">
-  <a href="https://www.linkedin.com/in/imen-hajri/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-   <a href="https://discord.gg/EayaYvnP">
-    <img src="https://skillicons.dev/icons?i=discord" width="45"/>
-  </a>
-    <a href="https://www.youtube.com/@hajriimen6247">
-    <img src="https://skillicons.dev/icons?i=youtube" width="45"/>
-  </a>
-  <a href="https://3-d-web-developer-portfolio-with-re.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=netlify" width="45"/>
-  </a>
+  <a href="https://www.linkedin.com/in/imen-hajri/" target="_blank">💼 LinkedIn</a> •
+  <a href="https://github.com/Imenhajri" target="_blank">🐙 GitHub</a> •
+  <a href="https://discord.gg/EayaYvnP" target="_blank">🎮 Discord</a> •
+  <a href="https://www.youtube.com/@hajriimen6247" target="_blank">📺 YouTube</a> •
+  <a href="https://3-d-web-developer-portfolio-with-re.vercel.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:your-email@domain.com" target="_blank">📧 Email</a>
 </p>
