@@ -83,6 +83,7 @@
   <img src="https://streak-stats.demolab.com?user=Imenhajri&theme=tokyonight&hide_border=true&background=00000000&fire=DD2727&ring=DD2727" width="88%" height="160"/>
 </p>
 </div>
+
 ## 📈 **Contribution Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imenhajri&theme=react-dark&hide_border=true" width="90%"/>
@@ -93,8 +94,8 @@
   <a href="https://www.linkedin.com/in/imen-hajri/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
-  <a href="hajriimen154@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+   <a href="https://discord.gg/EayaYvnP">
+    <img src="https://skillicons.dev/icons?i=discord" width="45"/>
   </a>
   <a href="https://3-d-web-developer-portfolio-with-re.vercel.app/">
     <img src="https://skillicons.dev/icons?i=netlify" width="45"/>
