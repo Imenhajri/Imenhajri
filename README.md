@@ -91,10 +91,37 @@
 
 ## 📫 **Let's Connect**
 <p align="center">
-  <a href="https://www.linkedin.com/in/imen-hajri/" target="_blank">💼 LinkedIn</a> •
-  <a href="https://github.com/Imenhajri" target="_blank">🐙 GitHub</a> •
-  <a href="https://discord.gg/EayaYvnP" target="_blank">🎮 Discord</a> •
-  <a href="https://www.youtube.com/@hajriimen6247" target="_blank">📺 YouTube</a> •
-  <a href="https://3-d-web-developer-portfolio-with-re.vercel.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:your-email@domain.com" target="_blank">📧 Email</a>
+  <a href="https://www.linkedin.com/in/imen-hajri/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  <a href="https://github.com/Imenhajri">
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  </a>
+  <a href="https://discord.gg/EayaYvnP">
+    <img src="https://skillicons.dev/icons?i=discord" width="45"/>
+  </a>
+  <a href="https://www.youtube.com/@hajriimen6247">
+    <img src="https://skillicons.dev/icons?i=youtube" width="45"/>
+  </a>
+  <a href="https://3-d-web-developer-portfolio-with-re.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" width="45"/>
+  </a>
+  <a href="mailto:your-email@domain.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  </a>
+  <a href="https://twitter.com/yourprofile">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45"/>
+  </a>
+  <a href="https://dev.to/imenhajri">
+    <img src="https://skillicons.dev/icons?i=devto" width="45"/>
+  </a>
+  <a href="https://medium.com/@imenhajri">
+    <img src="https://skillicons.dev/icons?i=medium" width="45"/>
+  </a>
+  <a href="https://stackoverflow.com/users/yourprofile">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" width="45"/>
+  </a>
+  <a href="https://www.reddit.com/user/yourprofile">
+    <img src="https://skillicons.dev/icons?i=reddit" width="45"/>
+  </a>
 </p>
