@@ -12,7 +12,7 @@
 <!-- 🎪 Animated Profile Container -->
 <div align="center">
   <!-- Animated Tech GIF -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="980" height="780"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="990" height="780"/>
   
 </div>
 <!-- 👁️ Profile Views -->
