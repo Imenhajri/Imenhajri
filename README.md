@@ -110,19 +110,10 @@ Cloud + DevOps = The fastest way to turn ideas into production 🚀
 
 ---
 # 📈 GitHub Stats
-🎯 Main Stats Overview
-<p align="center"> <a href="https://github.com/Imenhajri"> <img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=false&custom_title=Imen%20Hajri's%20GitHub%20Stats" width="55%" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss,less,jupyter%20notebook&langs_count=8" width="42%" alt="Top Languages"/> </a> </p>
-🔥 GitHub Streak & Contribution
-<p align="center"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=Imenhajri&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=800" width="90%" alt="GitHub Streak"/> </a> </p>
-📊 Activity Graph
-<p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imenhajri&theme=tokyonight&hide_border=true&area=true&custom_title=Imen's%20GitHub%20Activity&height=300" width="90%"/> </a> </p>
-🏆 GitHub Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=Imenhajri&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="90%"/> </a> </p>
-📈 Detailed Language Stats
-<p align="center"> <a href="https://github.com/Imenhajri"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" width="45%" alt="Language Donut"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" width="45%" alt="Language Pie"/> </a> </p>
-⚡ Weekly Development Analytics
-<p align="center"> <a href="https://wakatime.com"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Imenhajri&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="60%" alt="WakaTime Stats"/> </a> </p>
-🎨 GitHub Profile Views
-<p align="center"> <a href="https://github.com/Imenhajri"> <img src="https://komarev.com/ghpvc/?username=Imenhajri&color=blueviolet&style=flat-square" alt="Profile Views"/> </a> • <a href="https://github.com/Imenhajri?tab=followers"> <img src="https://img.shields.io/github/followers/Imenhajri?color=green&label=Followers&style=flat-square" alt="GitHub Followers"/> </a> • <a href="https://github.com/Imenhajri"> <img src="https://img.shields.io/github/stars/Imenhajri?color=yellow&label=Total%20Stars&style=flat-square" alt="Total Stars"/> </a> </p>
-📋 Contribution Calendar
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imenhajri&repo=Imenhajri&theme=tokyonight&hide_border=true" width="45%"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imenhajri&repo=your-best-repo&theme=tokyonight&hide_border=true" width="45%"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Imenhajri&theme=tokyonight&hide_border=true" width="90%"/>
+</p>
