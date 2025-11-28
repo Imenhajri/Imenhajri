@@ -8,11 +8,11 @@
 </div>
 
 # 👩‍💻 **Hi 👋, I'm Imen Hajri**  
-### *Backend & DevOps Engineer ⚙️ | Cloud Infrastructure ☁️ | Microservices Architect 🏗️ | CI/CD Automation⚡
+### Backend & DevOps Engineer ⚙️ | Cloud Infrastructure ☁️ | Microservices Architect 🏗️ | CI/CD Automation⚡
 <!-- 🎪 Animated Profile Container -->
 <div align="center">
   <!-- Animated Tech GIF -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="990" height="780"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="995" height="780"/>
   
 </div>
 <!-- 👁️ Profile Views -->
