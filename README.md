@@ -1,16 +1,44 @@
 <!-- 🌟 Animated 3D Banner -->
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00ADEF&center=true&vCenter=true&width=1000&height=60&lines=Hi+👋%2C+I'm+Imen+Hajri!;Backend+Engineer+⚙️+%7C+DevOps+Engineer+🚀;Cloud+Architect+☁️+%7C+Microservices+Expert+🏗️;CI%2FCD+Automation+%7C+Kubernetes+%7C+AWS+☁️;Welcome+to+my+GitHub+Profile+✨&random=false" alt="Typing Animation" />
-</p>
+</div>
+
 <!-- 🚀 Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
-<!-- 🎪 Animated Profile Container -->
+
+<!-- 🎯 Profile Section -->
 <div align="center">
-  <!-- Animated Tech GIF -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="580" height="480"/>
-  
+
+# 👩‍💻 **Imen Hajri**
+
+### *Crafting Scalable Backend Systems & Cloud Infrastructure* ☁️
+
+<!-- 🎨 Professional Layout -->
+<table align="center">
+  <tr>
+    <td align="center" width="60%">
+      <!-- Main Profile Animation -->
+      <div style="background: linear-gradient(145deg, #f0f0f0, #cacaca); padding: 20px; border-radius: 20px; box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;">
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="90%"/>
+      </div>
+      <p><em>🚀 DevOps & Cloud Automation</em></p>
+    </td>
+    <td align="center" width="40%">
+      <!-- Quick Info Card -->
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; color: white; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+        <h3>💼 Specializations</h3>
+        <p>• Backend Development</p>
+        <p>• Cloud Architecture</p>
+        <p>• Microservices</p>
+        <p>• CI/CD Pipelines</p>
+        <p>• Containerization</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
