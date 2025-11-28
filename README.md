@@ -118,7 +118,7 @@
   <a href="https://stackoverflow.com/users/20035422/%d8%a7%d9%8a%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%ac%d8%b1%d9%8a">
     <img src="https://skillicons.dev/icons?i=stackoverflow" width="45"/>
   </a>
-  <a href="https://www.reddit.com/user/yourprofile">
-    <img src="https://skillicons.dev/icons?i=reddit" width="45"/>
+  <a href="https://gitlab.com/Imenhajri">
+    <img src="https://skillicons.dev/icons?i=gitlab" width="45"/>
   </a>
 </p>
