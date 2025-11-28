@@ -82,5 +82,21 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Imenhajri&theme=tokyonight&hide_border=true&background=00000000&fire=DD2727&ring=DD2727" width="88%" height="160"/>
 </p>
-
 </div>
+## 📈 **Contribution Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imenhajri&theme=react-dark&hide_border=true" width="90%"/>
+</p>
+
+## 📫 **Let's Connect**
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  <a href="mailto:your.email@domain.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://skillicons.dev/icons?i=netlify" width="45"/>
+  </a>
+</p>
