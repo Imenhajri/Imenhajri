@@ -113,7 +113,7 @@ Cloud + DevOps = The fastest way to turn ideas into production 🚀
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
 <p align="center">
@@ -121,56 +121,6 @@ Cloud + DevOps = The fastest way to turn ideas into production 🚀
 </p>
 
 ---
-
-## 📊 **Detailed Statistics**
-
-<div align="center">
-
-### **Most Used Languages**
-- **JavaScript** 80.59%
-- **Java** 2.89% 
-- **HTML** 9.33%
-- **CSS** 2.48%
-- **Jupyter Notebook** 3.56%
-- **TypeScript** 1.14%
-
-### **Imen HAJRI's GitHub Stats**
-- **Total Stars Earned:** 130 ⭐
-- **Total Commits (last year):** 430 ✅
-- **Total PRs:** 1 🔀
-- **Total Issues:** 0 🐛
-- **Contributed to (last year):** 0 🤝
-
-### **Contribution Analytics**
-- **Total Contributions:** 594 📈
-- **Period:** Dec 2, 2023 - Present
-- **Current Streak:** 12 days (Since Nov 28) 🔥
-- **Longest Streak:** 12 days (Jun 22 - Jul 3) 🏆
-
-</div>
-
----
-
-## 🎯 **Quick Stats Overview**
-
-| Metric | Value | Status |
-|--------|-------|--------|
-| **Repositories** | 69 | 📂 |
-| **Stars Received** | 130 | ⭐ |
-| **Total Commits** | 430 | ✅ |
-| **Pull Requests** | 1 | 🔀 |
-| **Contribution Streak** | 12 days | 🔥 |
-
----
-
-<div align="center">
-
-**🚀 Building amazing projects daily!**
-
-</div>
-
----
-
 <!-- Footer Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
