@@ -8,32 +8,37 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-<!-- 🎯 Main Profile Section -->
+<!-- 🎯 Profile Section -->
 <div align="center">
 
-# 👩‍💻 **Imen Hajri** 
-### *Backend & DevOps Engineer ⚙️ | Cloud Infrastructure ☁️ | Microservices Architect 🏗️ | CI/CD Automation ⚡*
+# 👩‍💻 **Imen Hajri**
 
-<!-- 🌈 Profile Grid Layout -->
+### *Crafting Scalable Backend Systems & Cloud Infrastructure* ☁️
+
+<!-- 🎨 Professional Layout -->
 <table align="center">
   <tr>
-    <td width="50%" align="center">
-      <!-- Animated Tech GIF -->
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="85%"/>
-      <br>
-      <em>Building Scalable Systems</em>
+    <td align="center" width="60%">
+      <!-- Main Profile Animation -->
+      <div style="background: linear-gradient(145deg, #f0f0f0, #cacaca); padding: 20px; border-radius: 20px; box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;">
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="90%"/>
+      </div>
+      <p><em>🚀 DevOps & Cloud Automation</em></p>
     </td>
-    <td width="50%" align="center">
-      <!-- Tech Stack Animation -->
-      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80%"/>
-      <br>
-      <em>Cloud & DevOps Technologies</em>
+    <td align="center" width="40%">
+      <!-- Quick Info Card -->
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; color: white; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+        <h3>💼 Specializations</h3>
+        <p>• Backend Development</p>
+        <p>• Cloud Architecture</p>
+        <p>• Microservices</p>
+        <p>• CI/CD Pipelines</p>
+        <p>• Containerization</p>
+      </div>
     </td>
   </tr>
 </table>
-
 </div>
-
 # 🔭 **I’m currently working on**
 - Scalable **Spring Boot Microservices**
 - **Kubernetes** deployments & GitOps  
