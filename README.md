@@ -90,13 +90,13 @@
 
 ## 📫 **Let's Connect**
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/imen-hajri/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
-  <a href="mailto:your.email@domain.com">
+  <a href="hajriimen154@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://3-d-web-developer-portfolio-with-re.vercel.app/">
     <img src="https://skillicons.dev/icons?i=netlify" width="45"/>
   </a>
 </p>
