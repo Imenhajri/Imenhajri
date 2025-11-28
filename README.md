@@ -13,7 +13,7 @@
 <!-- 🎪 Animated Profile Container -->
 <div align="center">
   <!-- Animated Tech GIF -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" height="280"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" height="380"/>
   
 </div>
 
