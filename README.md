@@ -7,40 +7,6 @@
 <!-- 🚀 Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- 🎪 Profile Card -->
-<div align="center">
-  
-  <!-- Profile Image & Info -->
-  <table>
-    <tr>
-      <td width="60%">
-        <!-- Name & Title -->
-        <h1 align="center">🚀 Imen Hajri</h1>
-        <h3 align="center">💫 Backend & DevOps Engineer</h3>
-        <p align="center">
-          <strong>☁️ Cloud Architect | 🏗️ Microservices Expert</strong><br>
-          <em>Building scalable systems with Java, Spring Boot & Kubernetes</em>
-        </p>
-        
-        <!-- Quick Stats -->
-        <p align="center">
-          <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-orange" />
-          <img src="https://img.shields.io/badge/DevOps-Kubernetes%20%7C%20Docker-blue" />
-          <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-lightblue" />
-        </p>
-      </td>
-      <td width="40%">
-        <!-- Animated Tech GIF -->
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%"/>
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
-<!-- 🚀 Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 </div>
 
 ---
