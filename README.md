@@ -111,11 +111,7 @@ Cloud + DevOps = The fastest way to turn ideas into production 🚀
 ---
 # 📈 **GitHub Stats**
 <div align="center">
-| | |
-| :---: | :---: |
-| **Profile Stats** | **Streak Stats** |
-| <img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&hide_border=true" width="400" /> | <img src="https://streak-stats.demolab.com?user=Imenhajri&theme=tokyonight&hide_border=true" width="400" /> |
-| **Top Languages** | |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="400" /> | |
-
+<img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+<img src="https://streak-stats.demolab.com?user=Imenhajri&theme=tokyonight&hide_border=true" width="400" /> |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="400" /> | |
 </div>
