@@ -109,11 +109,18 @@ Cloud + DevOps = The fastest way to turn ideas into production 🚀
 | <img src="https://skillicons.dev/icons?i=postgres" width="45"/> | <img src="https://skillicons.dev/icons?i=mysql" width="45"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="45"/> | <img src="https://skillicons.dev/icons?i=redis" width="45"/> | <img src="https://skillicons.dev/icons?i=kafka" width="45"/> | <img src="https://skillicons.dev/icons?i=rabbitmq" width="45"/> | <img src="https://skillicons.dev/icons?i=aws" width="45"/> |
 
 ---
-# 📈 **GitHub Stats**
+# 📊 GitHub Performance
+
+<div align="center">
+
+### 💻 Development Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="45%"/>
 </p>
+
+### ⚡ Consistency & Progress
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Imenhajri&theme=tokyonight&hide_border=true" width="90%" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Imenhajri&theme=tokyonight&hide_border=true&background=00000000&fire=DD2727&ring=DD2727" width="88%" height="160"/>
 </p>
+</div>
