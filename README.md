@@ -1,30 +1,17 @@
 <!-- 🌟 Animated 3D Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00ADEF&center=true&vCenter=true&width=1000&height=70&lines=Hi+👋%2C+I'm+Imen+Hajri!;Backend+Engineer+⚙️+%7C+DevOps+Engineer+🚀;Cloud+Architect+☁️+%7C+Microservices+Expert+🏗️;CI%2FCD+Automation+%7C+Kubernetes+%7C+AWS+☁️;Welcome+to+my+GitHub+Profile+✨&random=false" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00ADEF&center=true&vCenter=true&width=1000&height=60&lines=Hi+👋%2C+I'm+Imen+Hajri!;Backend+Engineer+⚙️+%7C+DevOps+Engineer+🚀;Cloud+Architect+☁️+%7C+Microservices+Expert+🏗️;CI%2FCD+Automation+%7C+Kubernetes+%7C+AWS+☁️;Welcome+to+my+GitHub+Profile+✨&random=false" alt="Typing Animation" />
 </p>
-
 <!-- 🚀 Animated Divider -->
-<div align="center" style="margin: 20px 0;">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" style="border-radius: 15px;"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
-
 <!-- 🎪 Animated Profile Container -->
 <div align="center">
   <!-- Animated Tech GIF -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" height="380" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="580" height="480"/>
+  
 </div>
-
-<!-- 💻 Tech Stack Icons -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-</p>
 
 ---
 
