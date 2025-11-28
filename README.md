@@ -82,10 +82,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="45%"/>
 </p>
 
-### ⚡ Consistency & Progress
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Imenhajri&theme=tokyonight&hide_border=true&background=00000000&fire=DD2727&ring=DD2727" width="88%" height="160"/>
-</p>
 </div>
 
 ## 📈 **Contribution Graph**
