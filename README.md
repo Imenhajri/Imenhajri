@@ -115,10 +115,7 @@
   <a href="https://dev.to/imenhajri">
     <img src="https://skillicons.dev/icons?i=devto" width="45"/>
   </a>
-  <a href="https://medium.com/@imenhajri">
-    <img src="https://skillicons.dev/icons?i=medium" width="45"/>
-  </a>
-  <a href="https://stackoverflow.com/users/yourprofile">
+  <a href="https://www.instagram.com/hajriimen6273?igsh=bGwxa2M4Y3JpM2Y=">
     <img src="https://skillicons.dev/icons?i=stackoverflow" width="45"/>
   </a>
   <a href="https://www.reddit.com/user/yourprofile">
