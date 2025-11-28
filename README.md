@@ -20,17 +20,10 @@
 
 <!-- 🎪 Animated Profile Container -->
 <div align="center">
-  
-  ![Profile Animation](https://github-readme-stats.vercel.app/api/pin/?username=Imenhajri&repo=your-repo&theme=tokyonight&show_icons=true)
-  
-  <!-- Floating 3D Animation -->
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="90%"/>
-  
   <!-- Animated Tech GIF -->
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" height="280"/>
   
 </div>
----
 
 # 🔭 **I’m currently working on**
 - Scalable **Spring Boot Microservices**
