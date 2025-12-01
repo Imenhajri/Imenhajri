@@ -15,6 +15,8 @@
 <!-- 👁️ Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Imenhajri&color=00ADEF&style=flat-square" alt="Profile views" />
+   <img src="https://img.shields.io/github/followers/Imenhajri?style=social" alt="Profile followers" />
+    <img src="https://img.shields.io/github/stars/Imenhajri?style=social" alt="Profile stars" />
 </p>
 
 ---
