@@ -145,11 +145,11 @@
 </div>
 
 **Favorite Playlists:**
-- 🎹 **Code & Flow** - Focus LoFi
-- 🚀 **Synthwave Coding** - Retro Vibes
-- 🌙 **Chill Study Beats** - Relaxed Coding
-- ⚡ **Energy Boost** - For Debugging
+ 🎹 **Code & Flow** - Focus LoFi
+ 🚀 **Synthwave Coding** - Retro Vibes
+ 🌙 **Chill Study Beats** - Relaxed Coding
+ ⚡ **Energy Boost** - For Debugging
 
-[![Follow on Spotify](https://img.shields.io/badge/Follow%20on%20Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/YOUR_USERNAME)
+[![Follow on Spotify](https://img.shields.io/badge/Follow%20on%20Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/ImenHajri)
 
 </div>
