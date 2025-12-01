@@ -129,24 +129,27 @@
 
 ---
 
-## 🎶 **Currently Listening To**
+## 🎶 **Currently Jamming To**
 <div align="center">
 
-## 🎧 **My Coding Playlist**
-> *"Good music makes better code"*
+### 🎧 **Coding Session Vibe**
+<p align="center">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/LoFi_Hip_Hop-00ADEF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Volume-85%25-00ADEF?style=for-the-badge" />
+</p>
 
-[![Spotify Playlist](https://img.shields.io/badge/🎵-My_Coding_Playlist-00ADEF?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/YOUR_PLAYLIST_ID)
-
-<!-- Animated equalizer -->
+<!-- Animated music visualizer -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/15/06/e4/1506e4017b52b35ec1c9e7d5ed4b5c47.gif" width="200"/>
+  <img src="https://i.giphy.com/media/3o7TKz8M9rdXflfWk0/giphy.webp" width="150"/>
 </div>
 
-**Favorite Genres:**
-- 🎹 Lo-Fi Hip Hop
-- 🎸 Synthwave & Retro
-- 🌊 Chill Beats
-- ⚡ EDM for Energy
-- 🎵 Classical Coding
+**Favorite Playlists:**
+- 🎹 **Code & Flow** - Focus LoFi
+- 🚀 **Synthwave Coding** - Retro Vibes
+- 🌙 **Chill Study Beats** - Relaxed Coding
+- ⚡ **Energy Boost** - For Debugging
+
+[![Follow on Spotify](https://img.shields.io/badge/Follow%20on%20Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/YOUR_USERNAME)
 
 </div>
