@@ -130,16 +130,22 @@
 ## 🎶 **Currently Listening To**
 <div align="center">
 
-🎧 **Live Coding Session** 🎧
-
-![Music](https://img.shields.io/badge/Listening_to-Coding_Lofi-blue?style=for-the-badge&logo=spotify&logoColor=white&color=00ADEF)
-<br>
-![TypeScript](https://img.shields.io/badge/Genre-LoFi_Study%2FChill-00ADEF?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Playing-00ADEF?style=flat-square&logo=music&logoColor=white)
-
-<!-- Animated music bars -->
-<div align="center">
-  <img src="https://i.giphy.com/media/l3q2K5jinAlChoCLS/giphy.webp" width="120"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/spotify.svg" width="40" height="40"/>
+      <br>
+      <strong>Spotify</strong>
+    </td>
+    <td>
+      <h4>🎶 Current Session</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Genre-Coding%20Focus-00ADEF" alt="Genre"/>
+        <img src="https://img.shields.io/badge/Mood-Flow%20State-00ADEF" alt="Mood"/>
+      </p>
+      <p><em>"Music fuels the code"</em> 🎧</p>
+    </td>
+  </tr>
+</table>
 
 </div>
