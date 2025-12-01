@@ -127,17 +127,6 @@
 ## 🎶 **Currently Listening To**
 <div align="center">
 
-[![Spotify](https://spotify-readme-1.vercel.app/api/spotify?background_color=0d1117&border_color=00ADEF&bar_color=00ADEF&bar_handle_color=FFFFFF)](https://open.spotify.com/user/your-profile)
-
-<!-- Alternative design option -->
-[![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00ADEF&bar_color_cover=true)](https://open.spotify.com/user/your-profile)
-
-<!-- Simple but elegant -->
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default&show_offline=false&background_color=0d1117&bar_color=00ADEF&bar_color_cover=true" width="100%"/>
-
-<!-- Minimalist design -->
-<a href="https://open.spotify.com/user/your-profile">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=compact&show_offline=false&background_color=0d1117&bar_color=00ADEF" width="80%"/>
-</a>
+[![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/your-profile)
 
 </div>
