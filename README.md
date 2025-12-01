@@ -81,6 +81,7 @@
 ### 💻 Development Overview
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="45%"/>
+   <img src="https://streak-stats.demolab.com?user=Imenhajri&theme=tokyonight&hide_border=true&background=0D1117&border=444&ring=00ADEF&fire=00ADEF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00ADEF&sideLabels=FFFFFF&dates=888" width="45%"/>
 </p>
 
 </div>
