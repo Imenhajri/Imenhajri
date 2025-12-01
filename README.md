@@ -130,6 +130,16 @@
 ## 🎶 **Currently Listening To**
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=compact&show_offline=false&background_color=0d1117&bar_color=00ADEF" width="400px"/>
+🎧 **Live Coding Session** 🎧
+
+![Music](https://img.shields.io/badge/Listening_to-Coding_Lofi-blue?style=for-the-badge&logo=spotify&logoColor=white&color=00ADEF)
+<br>
+![TypeScript](https://img.shields.io/badge/Genre-LoFi_Study%2FChill-00ADEF?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Playing-00ADEF?style=flat-square&logo=music&logoColor=white)
+
+<!-- Animated music bars -->
+<div align="center">
+  <img src="https://i.giphy.com/media/l3q2K5jinAlChoCLS/giphy.webp" width="120"/>
+</div>
 
 </div>
