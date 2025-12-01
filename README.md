@@ -124,5 +124,5 @@
     <img src="https://skillicons.dev/icons?i=stackoverflow" width="45"/>
   </a>
 </p>
-🎶 Currently Coding To
-https://novatorem.vercel.app/api/spotify
+## 🎶 **Currently Coding To**
+  <img src="https://novatorem.vercel.app/api/spotify" width="45"/>
