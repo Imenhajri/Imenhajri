@@ -91,6 +91,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imenhajri&theme=react-dark&hide_border=true" width="90%"/>
 </p>
 
+---
+
 ## 📫 **Let's Connect**
 <p align="center">
   <a href="https://www.linkedin.com/in/imen-hajri/">
@@ -130,22 +132,21 @@
 ## 🎶 **Currently Listening To**
 <div align="center">
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/spotify.svg" width="40" height="40"/>
-      <br>
-      <strong>Spotify</strong>
-    </td>
-    <td>
-      <h4>🎶 Current Session</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Genre-Coding%20Focus-00ADEF" alt="Genre"/>
-        <img src="https://img.shields.io/badge/Mood-Flow%20State-00ADEF" alt="Mood"/>
-      </p>
-      <p><em>"Music fuels the code"</em> 🎧</p>
-    </td>
-  </tr>
-</table>
+## 🎧 **My Coding Playlist**
+> *"Good music makes better code"*
+
+[![Spotify Playlist](https://img.shields.io/badge/🎵-My_Coding_Playlist-00ADEF?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/YOUR_PLAYLIST_ID)
+
+<!-- Animated equalizer -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/15/06/e4/1506e4017b52b35ec1c9e7d5ed4b5c47.gif" width="200"/>
+</div>
+
+**Favorite Genres:**
+- 🎹 Lo-Fi Hip Hop
+- 🎸 Synthwave & Retro
+- 🌊 Chill Beats
+- ⚡ EDM for Energy
+- 🎵 Classical Coding
 
 </div>
