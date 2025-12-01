@@ -124,9 +124,12 @@
     <img src="https://skillicons.dev/icons?i=stackoverflow" width="45"/>
   </a>
 </p>
+
+---
+
 ## 🎶 **Currently Listening To**
 <div align="center">
 
-[![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/your-profile)
+[![Spotify](https://spotify-now-playing-readme.vercel.app/api/spotify-playing?background_color=0d1117&border_color=00ADEF)](https://open.spotify.com/user/your-profile)
 
 </div>
