@@ -74,25 +74,10 @@
 | <img src="https://skillicons.dev/icons?i=postgres" width="45"/> | <img src="https://skillicons.dev/icons?i=mysql" width="45"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="45"/> | <img src="https://skillicons.dev/icons?i=redis" width="45"/> | <img src="https://skillicons.dev/icons?i=kafka" width="45"/> | <img src="https://skillicons.dev/icons?i=rabbitmq" width="45"/> | <img src="https://skillicons.dev/icons?i=aws" width="45"/> |
 
 ---
-<div align="center">
-
 # 📊 GitHub Performance
-
-### 💻 Development Overview
-
 <p align="center">
-  <a href="https://github.com/Imenhajri">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADEF&text_color=FFFFFF&icon_color=00ADEF&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/Imenhajri">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADEF&text_color=FFFFFF&langs_count=8"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Imenhajri">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imenhajri&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADEF&fire=00ADEF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00ADEF&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="45%"/>
+   <img src="https://streak-stats.demolab.com?user=Imenhajri&theme=tokyonight&hide_border=true&background=0D1117&border=444&ring=00ADEF&fire=00ADEF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00ADEF&sideLabels=FFFFFF&dates=888" width="45%"/>
 </p>
 
 ---
