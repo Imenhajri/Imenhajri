@@ -14,7 +14,6 @@
 </div>
 <!-- 👁️ Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Imenhajri&color=00ADEF&style=flat-square" alt="Profile views" />
    <img src="https://img.shields.io/github/followers/Imenhajri?style=social" alt="Profile followers" />
     <img src="https://img.shields.io/github/stars/Imenhajri?style=social" alt="Profile stars" />
 </p>
@@ -74,14 +73,18 @@
 | <img src="https://skillicons.dev/icons?i=postgres" width="45"/> | <img src="https://skillicons.dev/icons?i=mysql" width="45"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="45"/> | <img src="https://skillicons.dev/icons?i=redis" width="45"/> | <img src="https://skillicons.dev/icons?i=kafka" width="45"/> | <img src="https://skillicons.dev/icons?i=rabbitmq" width="45"/> | <img src="https://skillicons.dev/icons?i=aws" width="45"/> |
 
 ---
-# 📊 GitHub Performance
 
-<div align="center">
+# 📊 GitHub Performance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="45%"/>
-   <img src="https://streak-stats.demolab.com?user=Imenhajri&theme=tokyonight&hide_border=true&background=0D1117&border=444&ring=00ADEF&fire=00ADEF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00ADEF&sideLabels=FFFFFF&dates=888" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADEF&text_color=FFFFFF&icon_color=00ADEF" width="45%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADEF&text_color=FFFFFF&icon_color=00ADEF&hide=issues" width="45%" alt="GitHub Stats"/>
 </p>
-</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Imenhajri&theme=tokyonight&hide_border=true&background=0D1117&border=444&ring=00ADEF&fire=00ADEF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00ADEF&sideLabels=FFFFFF&dates=888" width="45%" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Imenhajri&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" width="45%" alt="GitHub Trophies"/>
+</p>
+
 ---
 
 ## 📫 **Let's Connect**
