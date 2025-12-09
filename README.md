@@ -80,8 +80,13 @@
 
 ### 💻 Development Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="45%"/>
-   <img src="https://streak-stats.demolab.com?user=Imenhajri&theme=tokyonight&hide_border=true&background=0D1117&border=444&ring=00ADEF&fire=00ADEF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00ADEF&sideLabels=FFFFFF&dates=888" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADEF&text_color=FFFFFF&icon_color=00ADEF" width="45%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADEF&text_color=FFFFFF&icon_color=00ADEF&hide=issues" width="45%" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Imenhajri&theme=tokyonight&hide_border=true&background=0D1117&border=444&ring=00ADEF&fire=00ADEF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00ADEF&sideLabels=FFFFFF&dates=888" width="45%" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Imenhajri&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" width="45%" alt="GitHub Trophies"/>
 </p>
 
 </div>
