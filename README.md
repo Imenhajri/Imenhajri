@@ -12,6 +12,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="780"/>
   
 </div>
+
 <!-- 🌙 Dark Theme Banking Badges -->
 <p align="center">
   <a href="https://github.com/Imenhajri?tab=followers">
@@ -24,6 +25,7 @@
     <img src="https://komarev.com/ghpvc/?username=Imenhajri&color=00ADEF&labelColor=0D1117&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
 </p>
+
 ---
 
 # 🔭 **I’m currently working on**
