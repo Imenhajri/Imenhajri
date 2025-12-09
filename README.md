@@ -12,10 +12,11 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="780"/>
   
 </div>
-<!-- 👁️ Profile Views -->
+<!-- 🏦 Banking Professional Badges -->
 <p align="center">
-   <img src="https://img.shields.io/github/followers/Imenhajri?style=social" alt="Profile followers" />
-    <img src="https://img.shields.io/github/stars/Imenhajri?style=social" alt="Profile stars" />
+  <img src="https://komarev.com/ghpvc/?username=Imenhajri&color=00ADEF&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Imenhajri?color=00ADEF&label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Imenhajri?color=00ADEF&label=TOTAL+STARS&style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
 </p>
 
 ---
