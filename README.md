@@ -75,29 +75,32 @@
 
 ---
 # 📊 GitHub Performance
+
+<div align="center">
+
+## 💻 Development Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="45%"/>
-   <img src="https://streak-stats.demolab.com?user=Imenhajri&theme=tokyonight&hide_border=true&background=0D1117&border=444&ring=00ADEF&fire=00ADEF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00ADEF&sideLabels=FFFFFF&dates=888" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADEF&text_color=FFFFFF&langs_count=8" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADEF&text_color=FFFFFF&icon_color=00ADEF&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
 </p>
 
----
-
-### 🏆 GitHub Trophies
+## 🔥 Contribution Streak
 
 <p align="center">
-  <a href="https://github.com/Imenhajri">
-    <img src="https://github-profile-trophy.vercel.app/?username=Imenhajri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=Imenhajri&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADEF&fire=00ADEF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00ADEF&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak"/>
 </p>
 
----
-
-### 📈 Contribution Activity Graph
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/Imenhajri">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imenhajri&theme=react-dark&bg_color=0D1117&color=00ADEF&line=00ADEF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Imenhajri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2" alt="GitHub Trophies"/>
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imenhajri&theme=react-dark&bg_color=0D1117&color=00ADEF&line=00ADEF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -107,7 +110,6 @@
 </p>
 
 </div>
-
 ---
 
 ## 📫 **Let's Connect**
