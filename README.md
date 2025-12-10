@@ -160,72 +160,26 @@ const imen = {
 # 📊 GitHub Analytics
 
 <div align="center">
+  ### ⚡ GitHub Streak Stats
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-mocha-phi.vercel.app?user=Imenhajri&theme=github-dark" alt="GitHub Streak" /></a>
 
-## 📈 Activity Overview
-
-### 🔥 Daily Coding Streak
-[![GitHub Streak](https://github-readme-streak-stats-mocha-phi.vercel.app?user=Imenhajri&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
----
-
-## 📊 GitHub Metrics
-
+### 📈 Profile Stats & Top Languages
 <table>
   <tr>
-    <!-- Profile Stats -->
-    <td width="33.3%" align="center">
+    <td width="50%" align="center">
+      <!-- Using GitHub Profile Summary Cards -->
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imenhajri&theme=github_dark" alt="GitHub Stats" />
-      <br>
-      <sub><b>Profile Statistics</b></sub>
     </td>
-    
-    <!-- Top Languages -->
-    <td width="33.3%" align="center">
+    <td width="50%" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imenhajri&theme=github_dark&exclude=html,css" alt="Top Languages" />
-      <br>
-      <sub><b>Repository Languages</b></sub>
-    </td>
-    
-    <!-- Most Commit Language -->
-    <td width="33.3%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Imenhajri&theme=github_dark" alt="Most Commit Language" />
-      <br>
-      <sub><b>Commit Distribution</b></sub>
     </td>
   </tr>
 </table>
 
----
-
-## 📅 Contribution Graph
-[![Imen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Imenhajri&theme=github-dark&area=true&hide_border=true&radius=8&point=00ADEF&line=00ADEF&area_color=00ADEF20)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-*Visual representation of commit activity over time*
-
----
-
-## 🕒 Development Analytics
-
-<table>
-  <tr>
-    <!-- Productive Time -->
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Imenhajri&theme=github_dark&utcOffset=1" alt="Productive Time" />
-      <br>
-      <sub><b>Most Productive Hours</b></sub>
-    </td>
-    
-    <!-- GitHub Trophies -->
-    <td width="50%" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Imenhajri&theme=github-dark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=3&row=2" alt="GitHub Trophies" />
-      <br>
-      <sub><b>Achievement Trophies</b></sub>
-    </td>
-  </tr>
-</table>
-
+### 📊 Additional Metrics
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Imenhajri&theme=github_dark" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Imenhajri&theme=github_dark&utcOffset=1" width="45%" />
 </div>
-
 ---
 
 # 💼 Professional Experience
