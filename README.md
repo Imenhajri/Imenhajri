@@ -162,7 +162,9 @@ const imen = {
 <div align="center">
 
 ### ⚡ GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Imenhajri&theme=github-dark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=Imenhajri&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</a>
 
 ### 📈 Profile Stats & Top Languages
 <table>
