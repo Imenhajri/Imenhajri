@@ -182,10 +182,6 @@ const imen = {
 ### 📊 Additional Metrics
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Imenhajri&theme=github_dark" width="45%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Imenhajri&theme=github_dark&utcOffset=1" width="45%" />
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Imenhajri&theme=github-dark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies" />
-
 </div>
 
 ---
