@@ -157,36 +157,26 @@ const imen = {
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  
-### ⚡ GitHub Streak Stats
-  
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats-mocha-phi.vercel.app/?user=Imenhajri&theme=github-dark&hide_border=true&border_radius=10&date_format=Y%2FM%2Fj" height="180" />
-</a>
-
-</div>
+# 📊 GitHub Analytics
 
 <div align="center">
 
-### 📈 Profile Stats & Top Languages
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <!-- Using GitHub Profile Summary Cards -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imenhajri&theme=github_dark" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imenhajri&theme=github_dark&exclude=html,css" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+## ⚡ GitHub Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats-mocha-phi.vercel.app/?user=Imenhajri&theme=github-dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-### 📊 Additional Metrics
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Imenhajri&theme=github_dark" width="45%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Imenhajri&theme=github_dark&utcOffset=1" width="45%" />
+---
+
+## 📈 GitHub Statistics
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; place-items: center;">
+
+![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imenhajri&theme=github_dark&border_radius=10)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imenhajri&theme=github_dark&exclude=html,css&border_radius=10)
+![Most Active Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Imenhajri&theme=github_dark&border_radius=10)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Imenhajri&theme=github_dark&utcOffset=1&border_radius=10)
+
+</div>
+
 </div>
 
 ---
