@@ -162,7 +162,7 @@ const imen = {
 <div align="center">
 
 ### ⚡ GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Imenhajri)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Imenhajri&theme=github-dark&hide_border=true&date_format=Y-M-d)](https://git.io/streak-stats)
 
 ### 📈 Profile Stats & Top Languages
 <table>
