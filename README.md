@@ -170,18 +170,24 @@ const imen = {
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      <!-- Using GitHub Profile Summary Cards -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imenhajri&theme=github_dark" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imenhajri&theme=github_dark&exclude=html,css" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
+### 📊 Additional Metrics
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Imenhajri&theme=github_dark" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Imenhajri&theme=github_dark&utcOffset=1" width="45%" />
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Imenhajri&theme=github-dark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies" />
 
 </div>
+
 ---
 
 # 💼 Professional Experience
