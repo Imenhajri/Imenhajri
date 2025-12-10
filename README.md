@@ -160,25 +160,28 @@ const imen = {
 # 📊 GitHub Analytics
 
 <div align="center">
-⚡ Daily Development Streak
+
+### ⚡ Daily Development Streak
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=Imenhajri&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADEF&fire=00ADEF&currStreakLabel=00ADEF&stroke=00ADEF&sideLabels=00ADEF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Imenhajri&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </a>
-📈 Profile Stats & Top Languages
+
+### 📈 Profile Stats & Top Languages
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADEF&icon_color=00ADEF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADEF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
     </td>
   </tr>
 </table>
-🏆 GitHub Trophies
-<img src="https://streak-stats.demolab.com/?user=Imenhajri&theme=github-dark" alt="GitHub Trophies" />
-</div>
 
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Imenhajri&theme=github-dark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies" />
+
+</div>
 ---
 
 # 💼 Professional Experience
