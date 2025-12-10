@@ -160,11 +160,16 @@ const imen = {
 ### 📊 GitHub Analytics
 
 <div align="center">
-  ### ⚡ GitHub Streak Stats
   
- <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-mocha-phi.vercel.app?user=Imenhajri&theme=github-dark&hide_border=true&border_radius=10" height="180" />
-  </a>
+### ⚡ GitHub Streak Stats
+  
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats-mocha-phi.vercel.app?user=Imenhajri&theme=github-dark&hide_border=true&border_radius=10" height="180" />
+</a>
+
+</div>
+
+<div align="center">
 
 ### 📈 Profile Stats & Top Languages
 <table>
