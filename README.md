@@ -160,7 +160,6 @@ const imen = {
 # 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imenhajri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ADEF&line=00ADEF&point=FFFFFF" width="98%" />
-  <img src="https://streak-stats.demolab.com/?user=Imenhajri&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADEF&fire=00ADEF&currStreakLabel=00ADEF" width="98%" />
 </p>
 
 ---
@@ -204,30 +203,6 @@ const imen = {
 
 ---
 
-# 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🔥 [Building Resilient Microservices with Resilience4j](#)
-- 🐳 [Kubernetes Production Best Practices](#)
-- ⚡ [Optimizing Spring Boot Performance](#)
-- 🔐 [Securing Your CI/CD Pipeline](#)
-- 📊 [Event-Driven Architecture with Kafka](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-# 🎯 2024 Goals
-
-- [ ] 📚 Contribute to 10+ open-source projects
-- [ ] 📝 Write 50+ technical articles
-- [ ] 🎓 Earn AWS Solutions Architect certification
-- [ ] 🚀 Build and deploy 5 production-ready projects
-- [ ] 👥 Mentor 20+ junior developers
-- [ ] 🎤 Speak at 3 tech conferences
-- [ ] 📹 Create 25+ coding tutorials
-
----
-
 # 💡 Fun Facts
 
 <div align="center">
@@ -252,18 +227,6 @@ console.log("🐛 Bugs fixed:", myDay.bugs);
 console.log("✨ Features shipped:", myDay.features);
 console.log("😴 Hours of sleep:", myDay.sleep);
 ```
-
-</div>
-
----
-
-# 🎵 Coding Playlist
-
-<div align="center">
-
-🎧 What I listen to while coding:
-  
-[![Spotify](https://novatorem-imenhajri.vercel.app/api/spotify)](https://open.spotify.com/user/31k6r6f6xfmddnmrjvrhujtqfx3u)
 
 </div>
 
