@@ -158,31 +158,8 @@ const imen = {
 ---
 
 # 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADEF&icon_color=00ADEF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADEF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Imenhajri&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADEF&fire=00ADEF&currStreakLabel=00ADEF" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imenhajri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ADEF&line=00ADEF&point=FFFFFF" width="98%" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Imenhajri&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imenhajri&bg_color=0D1117&color=00ADEF&line=00ADEF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
