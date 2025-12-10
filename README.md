@@ -89,12 +89,12 @@ const imen = {
 
 | Technology | Progress | Focus Area |
 |------------|----------|------------|
-| **Resilience4j** | ![90%](https://progress-bar.dev/90?color=00ADEF) | Circuit Breaker, Retry, Bulkhead |
-| **Kafka** | ![85%](https://progress-bar.dev/85?color=00ADEF) | Event-Driven Architecture |
-| **Terraform** | ![80%](https://progress-bar.dev/80?color=00ADEF) | Infrastructure-as-Code |
-| **Service Mesh** | ![70%](https://progress-bar.dev/70?color=00ADEF) | Istio & Linkerd |
-| **Observability** | ![75%](https://progress-bar.dev/75?color=00ADEF) | Prometheus, Grafana, ELK |
-| **Go** | ![65%](https://progress-bar.dev/65?color=00ADEF) | Cloud-Native Development |
+| **Resilience4j** | ![90%](https://geps.dev/progress/90?dangerColor=00ADEF&warningColor=00ADEF&successColor=00ADEF) | Circuit Breaker, Retry, Bulkhead |
+| **Kafka** | ![85%](https://geps.dev/progress/85?dangerColor=00ADEF&warningColor=00ADEF&successColor=00ADEF) | Event-Driven Architecture |
+| **Terraform** | ![80%](https://geps.dev/progress/80?dangerColor=00ADEF&warningColor=00ADEF&successColor=00ADEF) | Infrastructure-as-Code |
+| **Service Mesh** | ![70%](https://geps.dev/progress/70?dangerColor=00ADEF&warningColor=00ADEF&successColor=00ADEF) | Istio & Linkerd |
+| **Observability** | ![75%](https://geps.dev/progress/75?dangerColor=00ADEF&warningColor=00ADEF&successColor=00ADEF) | Prometheus, Grafana, ELK |
+| **Go** | ![65%](https://geps.dev/progress/65?dangerColor=00ADEF&warningColor=00ADEF&successColor=00ADEF) | Cloud-Native Development |
 
 </div>
 
