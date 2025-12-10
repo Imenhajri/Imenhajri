@@ -58,14 +58,11 @@
 |------|------|------------|------------|--------|---------|--------|
 | <img src="https://skillicons.dev/icons?i=html" width="45"/> | <img src="https://skillicons.dev/icons?i=css" width="45"/> | <img src="https://skillicons.dev/icons?i=javascript" width="45"/> | <img src="https://skillicons.dev/icons?i=typescript" width="45"/> | <img src="https://skillicons.dev/icons?i=react" width="45"/> | <img src="https://skillicons.dev/icons?i=angular" width="45"/> | <img src="https://skillicons.dev/icons?i=vue" width="45"/> |
 
----
-
 ## ⚙️ Backend
 | Java | Spring Boot | Hibernate | JPA | Node.js | Express | FastAPI | GraphQL |
 |------|--------------|-----------|------|---------|----------|-----------|----------|
 | <img src="https://skillicons.dev/icons?i=java" width="45"/> | <img src="https://skillicons.dev/icons?i=spring" width="45"/> | <img src="https://skillicons.dev/icons?i=hibernate" width="45"/> | <img src="https://skillicons.dev/icons?i=java" width="45"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="45"/> | <img src="https://skillicons.dev/icons?i=express" width="45"/> | <img src="https://skillicons.dev/icons?i=fastapi" width="45"/> | <img src="https://skillicons.dev/icons?i=graphql" width="45"/> |
 
----
 
 ## ☁️ Cloud, DevOps & CI/CD  
 > ArgoCD removed as requested
@@ -73,8 +70,6 @@
 | AWS | Docker | Kubernetes | GitHub Actions | GitLab CI | Jenkins | Linux |
 |------|--------|------------|------------------|--------------|----------|--------|
 | <img src="https://skillicons.dev/icons?i=aws" width="45"/> | <img src="https://skillicons.dev/icons?i=docker" width="45"/> | <img src="https://skillicons.dev/icons?i=kubernetes" width="45"/> | <img src="https://skillicons.dev/icons?i=githubactions" width="45"/> | <img src="https://skillicons.dev/icons?i=gitlab" width="45"/> | <img src="https://skillicons.dev/icons?i=jenkins" width="45"/> | <img src="https://skillicons.dev/icons?i=linux" width="45"/> |
-
----
 
 ## 🗄️ Databases & Messaging
 | PostgreSQL | MySQL | MongoDB | Redis | Kafka | RabbitMQ | SQS |
