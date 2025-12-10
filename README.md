@@ -160,6 +160,7 @@ const imen = {
 # 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imenhajri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ADEF&line=00ADEF&point=FFFFFF" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=Imenhajri&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADEF&fire=00ADEF&currStreakLabel=00ADEF" width="98%" />
 </p>
 
 ---
