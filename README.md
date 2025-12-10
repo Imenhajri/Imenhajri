@@ -86,7 +86,8 @@
 # 📊 GitHub Analytics
 <p align="center">
  <!-- Streak stats (fixed URL form) -->
-<img src="https://streak-stats.demolab.com?user=Imenhajri&theme=tokyonight&hide_border=true" width="50%" />
+<!-- Streak stats (heroku instance) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Imenhajri&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
 ---
