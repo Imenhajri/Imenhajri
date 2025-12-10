@@ -85,9 +85,7 @@
 
 # 📊 GitHub Analytics
 <p align="center">
- <!-- Streak stats (fixed URL form) -->
-<!-- Streak stats (heroku instance) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Imenhajri&theme=tokyonight&hide_border=true" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&count_private=true" width="50%" />
 </p>
 
 ---
