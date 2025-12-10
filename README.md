@@ -86,7 +86,7 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://stats.fms.li/api?username=Imenhajri&show_icons=true&theme=tokyonight&count_private=true" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=Imenhajri&theme=tokyonight" width="45%" />
 </p>
 
 ---
