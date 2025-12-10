@@ -85,7 +85,7 @@
 
 # 📊 GitHub Analytics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&count_private=true" width="50%" />
+<img src="https://stats.fms.li/api?username=Imenhajri&show_icons=true&theme=tokyonight&count_private=true" width="50%" />
 </p>
 
 ---
