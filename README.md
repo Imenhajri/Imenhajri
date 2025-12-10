@@ -164,7 +164,7 @@ const imen = {
 ### ⚡ GitHub Streak Stats
   
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats-mocha-phi.vercel.app?user=Imenhajri&theme=github-dark&hide_border=true&border_radius=10" height="180" />
+  <img src="https://github-readme-streak-stats-mocha-phi.vercel.app/?user=Imenhajri&theme=github-dark&hide_border=true&border_radius=10&date_format=Y%2FM%2Fj" height="180" />
 </a>
 
 </div>
@@ -188,6 +188,7 @@ const imen = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Imenhajri&theme=github_dark" width="45%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Imenhajri&theme=github_dark&utcOffset=1" width="45%" />
 </div>
+
 ---
 
 # 💼 Professional Experience
