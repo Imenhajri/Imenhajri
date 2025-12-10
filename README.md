@@ -1,6 +1,6 @@
 <!-- 🌟 Animated Intro Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00ADEF&center=true&vCenter=true&width=1000&height=60&lines=Hi+👋%2C+I'm+Imen+Hajri!;Backend+Engineer+⚙️+%7C+DevOps+Engineer+🚀;Cloud+Architect+☁️+%7C+Microservices+Expert;CI%2FCD+Automation+%7C+Kubernetes+%7C+AWS;Welcome+to+my+GitHub+Profile+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00ADEF&center=true&vCenter=true&width=1000&height=60&lines=Hi+👋%2C+I'm+Imen+Hajri!;Backend+Engineer+⚙️+%7C+DevOps+Engineer+🚀;Cloud+Architect+☁️+%7C+Microservices+Expert;CI%2FCD+Automation+%7C+Kubernetes+%7C+AWS;Building+Scalable+Systems+✨;Welcome+to+my+GitHub+Profile+🎯" />
 </p>
 
 <div align="center">
@@ -27,75 +27,323 @@
 
 ---
 
-# 🔭 What I’m Currently Working On
-- High-performance **Spring Boot Microservices**
-- Container-driven deployments with **Kubernetes**
-- End-to-end **CI/CD pipelines** (GitHub Actions, GitLab CI, CircleCI)
-- Secure & scalable **AWS Cloud architectures**
-- Reliable, distributed, fault-tolerant systems
+<div align="center">
+  
+## 💫 About Me
+
+</div>
+
+```javascript
+const imen = {
+    role: "Backend & DevOps Engineer",
+    location: "Tunisia 🇹🇳",
+    code: ["Java", "Python", "JavaScript", "TypeScript", "Go"],
+    architecture: ["Microservices", "Event-Driven", "Serverless", "Cloud-Native"],
+    technologies: {
+        backend: ["Spring Boot", "Node.js", "FastAPI", "Express"],
+        devOps: ["Docker", "Kubernetes", "Terraform", "Ansible"],
+        cloud: ["AWS", "GCP", "Azure"],
+        databases: ["PostgreSQL", "MongoDB", "Redis", "DynamoDB"],
+        messaging: ["Kafka", "RabbitMQ", "SQS"],
+        cicd: ["GitHub Actions", "GitLab CI", "Jenkins", "CircleCI"]
+    },
+    currentFocus: "Building resilient distributed systems",
+    funFact: "I automate everything, even my coffee machine ☕"
+};
+```
 
 ---
 
-# 🌱 What I’m Learning
-- Advanced **Resilience4j** (Circuit Breaker, Retry, Bulkhead)
-- Event-driven systems (**Kafka**, **RabbitMQ**, **SQS**)
-- **Terraform** for Infrastructure-as-Code automation
-- Cloud performance, observability & cost optimization
+# 🔭 What I'm Currently Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Professional Projects
+- 🏗️ High-performance **Spring Boot Microservices**
+- 🐳 Container-driven deployments with **Kubernetes**
+- 🔄 End-to-end **CI/CD pipelines** automation
+- ☁️ Secure & scalable **AWS Cloud architectures**
+- 🛡️ Reliable, distributed, fault-tolerant systems
+
+</td>
+<td width="50%">
+
+### 🌟 Side Projects
+- 📚 Building a **Developer Blog** with Next.js
+- 🤖 Creating **DevOps automation tools**
+- 📊 Contributing to **open-source projects**
+- 🎓 Writing **technical articles** on Dev.to
+- 🎥 Recording **tech tutorials** for YouTube
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌱 What I'm Learning
+
+<div align="center">
+
+| Technology | Progress | Focus Area |
+|------------|----------|------------|
+| **Resilience4j** | ![90%](https://progress-bar.dev/90?color=00ADEF) | Circuit Breaker, Retry, Bulkhead |
+| **Kafka** | ![85%](https://progress-bar.dev/85?color=00ADEF) | Event-Driven Architecture |
+| **Terraform** | ![80%](https://progress-bar.dev/80?color=00ADEF) | Infrastructure-as-Code |
+| **Service Mesh** | ![70%](https://progress-bar.dev/70?color=00ADEF) | Istio & Linkerd |
+| **Observability** | ![75%](https://progress-bar.dev/75?color=00ADEF) | Prometheus, Grafana, ELK |
+| **Go** | ![65%](https://progress-bar.dev/65?color=00ADEF) | Cloud-Native Development |
+
+</div>
 
 ---
 
 # ⚙️ Core Technologies
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws,gitlab,githubactions,react,angular,vue,python,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws,gitlab,githubactions,react,angular,vue,python,nodejs,terraform,prometheus,grafana" />
 </p>
 
 ---
 
 # 🚀 Languages & Tools
 
-## 🎨 Frontend
-| HTML5 | CSS3 | JavaScript | TypeScript | React | Angular | Vue.js |
-|------|------|------------|------------|--------|---------|--------|
-| <img src="https://skillicons.dev/icons?i=html" width="45"/> | <img src="https://skillicons.dev/icons?i=css" width="45"/> | <img src="https://skillicons.dev/icons?i=javascript" width="45"/> | <img src="https://skillicons.dev/icons?i=typescript" width="45"/> | <img src="https://skillicons.dev/icons?i=react" width="45"/> | <img src="https://skillicons.dev/icons?i=angular" width="45"/> | <img src="https://skillicons.dev/icons?i=vue" width="45"/> |
+## 🎨 Frontend Development
+<div align="center">
 
-## ⚙️ Backend
-| Java | Spring Boot | Hibernate | JPA | Node.js | Express | FastAPI | GraphQL |
-|------|--------------|-----------|------|---------|----------|-----------|----------|
-| <img src="https://skillicons.dev/icons?i=java" width="45"/> | <img src="https://skillicons.dev/icons?i=spring" width="45"/> | <img src="https://skillicons.dev/icons?i=hibernate" width="45"/> | <img src="https://skillicons.dev/icons?i=java" width="45"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="45"/> | <img src="https://skillicons.dev/icons?i=express" width="45"/> | <img src="https://skillicons.dev/icons?i=fastapi" width="45"/> | <img src="https://skillicons.dev/icons?i=graphql" width="45"/> |
+| HTML5 | CSS3 | JavaScript | TypeScript | React | Angular | Vue.js | Tailwind |
+|------|------|------------|------------|--------|---------|--------|----------|
+| <img src="https://skillicons.dev/icons?i=html" width="45"/> | <img src="https://skillicons.dev/icons?i=css" width="45"/> | <img src="https://skillicons.dev/icons?i=javascript" width="45"/> | <img src="https://skillicons.dev/icons?i=typescript" width="45"/> | <img src="https://skillicons.dev/icons?i=react" width="45"/> | <img src="https://skillicons.dev/icons?i=angular" width="45"/> | <img src="https://skillicons.dev/icons?i=vue" width="45"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="45"/> |
 
+</div>
+
+## ⚙️ Backend Development
+<div align="center">
+
+| Java | Spring Boot | Hibernate | Node.js | Express | FastAPI | GraphQL | Python |
+|------|--------------|-----------|---------|----------|-----------|----------|---------|
+| <img src="https://skillicons.dev/icons?i=java" width="45"/> | <img src="https://skillicons.dev/icons?i=spring" width="45"/> | <img src="https://skillicons.dev/icons?i=hibernate" width="45"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="45"/> | <img src="https://skillicons.dev/icons?i=express" width="45"/> | <img src="https://skillicons.dev/icons?i=fastapi" width="45"/> | <img src="https://skillicons.dev/icons?i=graphql" width="45"/> | <img src="https://skillicons.dev/icons?i=python" width="45"/> |
+
+</div>
 
 ## ☁️ Cloud, DevOps & CI/CD  
-> ArgoCD removed as requested
+<div align="center">
 
-| AWS | Docker | Kubernetes | GitHub Actions | GitLab CI | Jenkins | Linux |
-|------|--------|------------|------------------|--------------|----------|--------|
-| <img src="https://skillicons.dev/icons?i=aws" width="45"/> | <img src="https://skillicons.dev/icons?i=docker" width="45"/> | <img src="https://skillicons.dev/icons?i=kubernetes" width="45"/> | <img src="https://skillicons.dev/icons?i=githubactions" width="45"/> | <img src="https://skillicons.dev/icons?i=gitlab" width="45"/> | <img src="https://skillicons.dev/icons?i=jenkins" width="45"/> | <img src="https://skillicons.dev/icons?i=linux" width="45"/> |
+| AWS | Docker | Kubernetes | GitHub Actions | GitLab CI | Jenkins | Terraform | Linux |
+|------|--------|------------|------------------|--------------|----------|-----------|--------|
+| <img src="https://skillicons.dev/icons?i=aws" width="45"/> | <img src="https://skillicons.dev/icons?i=docker" width="45"/> | <img src="https://skillicons.dev/icons?i=kubernetes" width="45"/> | <img src="https://skillicons.dev/icons?i=githubactions" width="45"/> | <img src="https://skillicons.dev/icons?i=gitlab" width="45"/> | <img src="https://skillicons.dev/icons?i=jenkins" width="45"/> | <img src="https://skillicons.dev/icons?i=terraform" width="45"/> | <img src="https://skillicons.dev/icons?i=linux" width="45"/> |
+
+</div>
 
 ## 🗄️ Databases & Messaging
-| PostgreSQL | MySQL | MongoDB | Redis | Kafka | RabbitMQ | SQS |
-|------------|--------|----------|--------|--------|------------|-------|
-| <img src="https://skillicons.dev/icons?i=postgres" width="45"/> | <img src="https://skillicons.dev/icons?i=mysql" width="45"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="45"/> | <img src="https://skillicons.dev/icons?i=redis" width="45"/> | <img src="https://skillicons.dev/icons?i=kafka" width="45"/> | <img src="https://skillicons.dev/icons?i=rabbitmq" width="45"/> | <img src="https://skillicons.dev/icons?i=aws" width="45"/> |
+<div align="center">
+
+| PostgreSQL | MySQL | MongoDB | Redis | Kafka | RabbitMQ | ElasticSearch | DynamoDB |
+|------------|--------|----------|--------|--------|------------|---------------|----------|
+| <img src="https://skillicons.dev/icons?i=postgres" width="45"/> | <img src="https://skillicons.dev/icons?i=mysql" width="45"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="45"/> | <img src="https://skillicons.dev/icons?i=redis" width="45"/> | <img src="https://skillicons.dev/icons?i=kafka" width="45"/> | <img src="https://skillicons.dev/icons?i=rabbitmq" width="45"/> | <img src="https://skillicons.dev/icons?i=elasticsearch" width="45"/> | <img src="https://skillicons.dev/icons?i=dynamodb" width="45"/> |
+
+</div>
+
+## 🛠️ Tools & Platforms
+<div align="center">
+
+| Git | Postman | Prometheus | Grafana | Nginx | VS Code | IntelliJ | Vim |
+|-----|---------|------------|---------|--------|---------|----------|-----|
+| <img src="https://skillicons.dev/icons?i=git" width="45"/> | <img src="https://skillicons.dev/icons?i=postman" width="45"/> | <img src="https://skillicons.dev/icons?i=prometheus" width="45"/> | <img src="https://skillicons.dev/icons?i=grafana" width="45"/> | <img src="https://skillicons.dev/icons?i=nginx" width="45"/> | <img src="https://skillicons.dev/icons?i=vscode" width="45"/> | <img src="https://skillicons.dev/icons?i=idea" width="45"/> | <img src="https://skillicons.dev/icons?i=vim" width="45"/> |
+
+</div>
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Imenhajri&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADEF&icon_color=00ADEF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADEF" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Imenhajri&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADEF&fire=00ADEF&currStreakLabel=00ADEF" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imenhajri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ADEF&line=00ADEF&point=FFFFFF" width="98%" />
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 🏆 GitHub Trophies
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/imen-hajri/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="https://github.com/Imenhajri"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-  <a href="https://gitlab.com/Imenhajri"><img src="https://skillicons.dev/icons?i=gitlab" width="45"/></a>
-  <a href="https://discord.gg/EayaYvnP"><img src="https://skillicons.dev/icons?i=discord" width="45"/></a>
-  <a href="https://www.instagram.com/hajriimen6273"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-  <a href="https://3-d-web-developer-portfolio-with-re.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="45"/></a>
-  <a href="mailto:hajriimen154@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
-  <a href="https://dev.to/imenhajri"><img src="https://skillicons.dev/icons?i=devto" width="45"/></a>
-  <a href="https://stackoverflow.com/users/20035422"><img src="https://skillicons.dev/icons?i=stackoverflow" width="45"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Imenhajri&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imenhajri&bg_color=0D1117&color=00ADEF&line=00ADEF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+# 💼 Professional Experience
+
+<table>
+<tr>
+<td width="33%">
+
+### 🏢 Backend Engineer
+**Focus Areas:**
+- Microservices Architecture
+- API Development
+- Database Optimization
+- Performance Tuning
+
+</td>
+<td width="33%">
+
+### 🚀 DevOps Engineer
+**Focus Areas:**
+- CI/CD Pipelines
+- Container Orchestration
+- Infrastructure Automation
+- Monitoring & Logging
+
+</td>
+<td width="33%">
+
+### ☁️ Cloud Architect
+**Focus Areas:**
+- AWS Solutions
+- Serverless Architecture
+- Cost Optimization
+- Security Best Practices
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🔥 [Building Resilient Microservices with Resilience4j](#)
+- 🐳 [Kubernetes Production Best Practices](#)
+- ⚡ [Optimizing Spring Boot Performance](#)
+- 🔐 [Securing Your CI/CD Pipeline](#)
+- 📊 [Event-Driven Architecture with Kafka](#)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+# 🎯 2024 Goals
+
+- [ ] 📚 Contribute to 10+ open-source projects
+- [ ] 📝 Write 50+ technical articles
+- [ ] 🎓 Earn AWS Solutions Architect certification
+- [ ] 🚀 Build and deploy 5 production-ready projects
+- [ ] 👥 Mentor 20+ junior developers
+- [ ] 🎤 Speak at 3 tech conferences
+- [ ] 📹 Create 25+ coding tutorials
+
+---
+
+# 💡 Fun Facts
+
+<div align="center">
+
+```typescript
+interface DeveloperLife {
+    coffee: number;
+    bugs: number;
+    features: number;
+    sleep: number;
+}
+
+const myDay: DeveloperLife = {
+    coffee: Number.MAX_SAFE_INTEGER,
+    bugs: 99, // but a feature ain't one
+    features: 42, // the answer to everything
+    sleep: Math.floor(Math.random() * 5) // varies
+};
+
+console.log("☕ Coffee consumed:", myDay.coffee);
+console.log("🐛 Bugs fixed:", myDay.bugs);
+console.log("✨ Features shipped:", myDay.features);
+console.log("😴 Hours of sleep:", myDay.sleep);
+```
+
+</div>
+
+---
+
+# 🎵 Coding Playlist
+
+<div align="center">
+
+🎧 What I listen to while coding:
+  
+[![Spotify](https://novatorem-imenhajri.vercel.app/api/spotify)](https://open.spotify.com/user/31k6r6f6xfmddnmrjvrhujtqfx3u)
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/imen-hajri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Imenhajri"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://gitlab.com/Imenhajri"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+  <a href="https://discord.gg/EayaYvnP"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.instagram.com/hajriimen6273"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:hajriimen154@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://dev.to/imenhajri"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/20035422"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+  <a href="https://3-d-web-developer-portfolio-with-re.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/imen-hajri/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+  <a href="https://github.com/Imenhajri"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
+  <a href="https://gitlab.com/Imenhajri"><img src="https://skillicons.dev/icons?i=gitlab" width="50"/></a>
+  <a href="https://discord.gg/EayaYvnP"><img src="https://skillicons.dev/icons?i=discord" width="50"/></a>
+  <a href="https://www.instagram.com/hajriimen6273"><img src="https://skillicons.dev/icons?i=instagram" width="50"/></a>
+  <a href="https://3-d-web-developer-portfolio-with-re.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="50"/></a>
+  <a href="mailto:hajriimen154@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+  <a href="https://twitter.com/yourprofile"><img src="https://skillicons.dev/icons?i=twitter" width="50"/></a>
+  <a href="https://dev.to/imenhajri"><img src="https://skillicons.dev/icons?i=devto" width="50"/></a>
+  <a href="https://stackoverflow.com/users/20035422"><img src="https://skillicons.dev/icons?i=stackoverflow" width="50"/></a>
+</p>
+
+---
+
+# 💬 Ask Me About
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-00ADEF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-00ADEF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System_Design-00ADEF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud_Architecture-00ADEF?style=for-the-badge" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  
+  ### 💖 Show some ❤️ by starring some of my repositories!
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%"/>
 </p>
