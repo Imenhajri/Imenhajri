@@ -160,6 +160,7 @@ const imen = {
 # 📊 GitHub Analytics
 
 <div align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imenhajri&theme=dark&hide_border=true" alt="streak" />
 
 ### 📈 Profile Stats & Top Languages
 <table>
