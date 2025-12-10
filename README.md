@@ -84,11 +84,18 @@
 ---
 
 # 📊 GitHub Analytics
+
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Imenhajri&theme=tokyonight" width="50%" />
+  <!-- Main Stats Card -->
+  <img src="https://YOUR_PROJECT_NAME.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="45%" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolay.com/?user=Imenhajri&theme=tokyonight&hide_border=true" width="45%" />
 </p>
+
 <p align="center">
-<img src="https://github-stats-imen.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&count_private=true" width="50%" />
+  <!-- Top Languages -->
+  <img src="https://YOUR_PROJECT_NAME.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
