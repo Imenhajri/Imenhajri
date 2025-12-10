@@ -159,7 +159,7 @@ const imen = {
 
 ### 📊 GitHub Analytics
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   
 ### ⚡ GitHub Streak Stats
   
