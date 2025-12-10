@@ -308,3 +308,4 @@ console.log("😴 Hours of sleep:", myDay.sleep);
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%"/>
 </p>
+https://streak-stats.demolab.com/?user=Imenhajri&theme=github-dark&hide_border=true&date_format=Y-M-d
