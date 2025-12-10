@@ -163,7 +163,7 @@ const imen = {
 
 ### ⚡ Daily Development Streak
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=Imenhajri&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Imenhajri&theme=github-dark&hide_border=true&date_format=Y-M-d" alt="GitHub Streak" />
 </a>
 
 ### 📈 Profile Stats & Top Languages
