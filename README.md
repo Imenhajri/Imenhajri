@@ -122,30 +122,3 @@
     <img src="https://skillicons.dev/icons?i=stackoverflow" width="45"/>
   </a>
 </p>
-
----
-
-## 🎶 **Currently Jamming To**
-<div align="center">
-
-### 🎧 **Coding Session Vibe**
-<p align="center">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-  <img src="https://img.shields.io/badge/LoFi_Hip_Hop-00ADEF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Volume-85%25-00ADEF?style=for-the-badge" />
-</p>
-
-<!-- Animated music visualizer -->
-<div align="center">
-  <img src="https://i.giphy.com/media/3o7TKz8M9rdXflfWk0/giphy.webp" width="150"/>
-</div>
-
-**Favorite Playlists:**
-- 🎹 **Code & Flow** - Focus LoFi
-- 🚀 **Synthwave Coding** - Retro Vibes
-- 🌙 **Chill Study Beats** - Relaxed Coding
-- ⚡ **Energy Boost** - For Debugging
-
-[![Follow on Spotify](https://img.shields.io/badge/Follow%20on%20Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/YOUR_USERNAME)
-
-</div>
