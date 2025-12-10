@@ -14,14 +14,14 @@
 
 <!-- 📊 Social Stats -->
 <p align="center">
-  <a href="https://github.com/Imenhajri?tab=followers">
+  <a href="https://github.com/Imenhajri">
+    <img src="https://komarev.com/ghpvc/?username=Imenhajri&color=00ADEF&labelColor=0D1117&style=for-the-badge&label=Profile+Views" />
+  </a>
+   <a href="https://github.com/Imenhajri?tab=followers">
     <img src="https://custom-icon-badges.demolab.com/github/followers/Imenhajri?color=00ADEF&labelColor=0D1117&style=for-the-badge&logo=person-add&label=Followers" />
   </a>
   <a href="https://github.com/Imenhajri?tab=repositories&q=&type=&language=&sort=stargazers">
     <img src="https://custom-icon-badges.demolab.com/github/stars/Imenhajri?color=00ADEF&labelColor=0D1117&style=for-the-badge&logo=star&label=Stars" />
-  </a>
-  <a href="https://github.com/Imenhajri">
-    <img src="https://komarev.com/ghpvc/?username=Imenhajri&color=00ADEF&labelColor=0D1117&style=for-the-badge&label=Profile+Views" />
   </a>
 </p>
 
