@@ -176,9 +176,7 @@ const imen = {
   </tr>
 </table>
 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Imenhajri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&rank=SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
-📊 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Imenhajri&bg_color=0D1117&color=00ADEF&line=00ADEF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=Imenhajri&theme=github-dark" alt="GitHub Trophies" />
 </div>
 
 ---
