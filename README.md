@@ -85,7 +85,8 @@
 
 # 📊 GitHub Analytics
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Imenhajri&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADEF&fire=00ADEF" width="50%" />
+ <!-- Streak stats (fixed URL form) -->
+<img src="https://streak-stats.demolab.com?user=Imenhajri&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
 ---
