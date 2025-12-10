@@ -159,12 +159,17 @@ const imen = {
 
 # 📊 GitHub Analytics
 
+# 📊 GitHub Analytics
+
 <div align="center">
-  
-### ⚡ Daily Development Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Imenhajri&theme=github-dark&hide_border=true&date_format=Y-M-d)](https://git.io/streak-stats)
+
+### ⚡ GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Imenhajri&theme=github-dark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+</div>
 
 ### 📈 Profile Stats & Top Languages
+<div align="center">
 <table>
   <tr>
     <td width="50%" align="center">
