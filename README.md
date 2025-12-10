@@ -86,18 +86,13 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Main Stats Card -->
-  <img src="https://stock-market-app.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="45%" />
-  
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolay.com/?user=Imenhajri&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://stats.fms.li/api?username=Imenhajri&show_icons=true&theme=tokyonight&count_private=true" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=Imenhajri&theme=tokyonight" width="45%" />
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://stock-market-app.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://stats.fms.li/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 # 📫 Connect With Me
