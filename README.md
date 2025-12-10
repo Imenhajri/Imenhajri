@@ -160,26 +160,30 @@ const imen = {
 # 📊 GitHub Analytics
 
 <div align="center">
-  ### ⚡ GitHub Streak Stats
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-mocha-phi.vercel.app?user=Imenhajri&theme=github-dark" alt="GitHub Streak" /></a>
 
-### 📈 Profile Stats & Top Languages
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <!-- Using GitHub Profile Summary Cards -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imenhajri&theme=github_dark" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imenhajri&theme=github_dark&exclude=html,css" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+## ⚡ Coding Streak & Stats
 
-### 📊 Additional Metrics
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Imenhajri&theme=github_dark" width="45%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Imenhajri&theme=github_dark&utcOffset=1" width="45%" />
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-mocha-phi.vercel.app?user=Imenhajri&theme=github-dark&hide_border=true&border_radius=10" height="180" />
+  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imenhajri&theme=github_dark&border_radius=10" height="180" />
 </div>
+
+## 💻 Language & Activity Metrics
+
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imenhajri&theme=github_dark&exclude=html,css&border_radius=10)
+
+![Most Active Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Imenhajri&theme=github_dark&border_radius=10)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Imenhajri&theme=github_dark&utcOffset=1&border_radius=10)
+
+</div>
+
+</div>
+
 ---
 
 # 💼 Professional Experience
