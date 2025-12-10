@@ -87,7 +87,7 @@
 
 <p align="center">
   <!-- Main Stats Card -->
-  <img src="https://YOUR_PROJECT_NAME.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="45%" />
+  <img src="https://stock-market-app.vercel.app/api?username=Imenhajri&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="45%" />
   
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolay.com/?user=Imenhajri&theme=tokyonight&hide_border=true" width="45%" />
@@ -95,7 +95,7 @@
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://YOUR_PROJECT_NAME.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://stock-market-app.vercel.app/api/top-langs/?username=Imenhajri&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
